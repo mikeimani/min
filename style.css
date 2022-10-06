@@ -87,9 +87,9 @@ nav a:hover{
   letter-spacing: 2px;
 }
 button{
-  background: #f9004d
+  background: #f9004d;
   color: white;
-  text-decoration: red;
+  text-decoration: none;
   border: 2px solid transparent;
   font-weight: bold;
   padding: 13px 30px;
