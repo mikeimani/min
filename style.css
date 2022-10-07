@@ -46,7 +46,7 @@ nav a:hover{
 }
 
 *{
-  padding: 0;
+  padding: 20px;
   margin: 0;
   font-family: "Josefin Sans", sans-serif;
   box-sizing: border-box;
@@ -68,7 +68,7 @@ nav a:hover{
 .main{
   width: 1130px;
   max-width: 95%;
-  margin: o auto;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -85,6 +85,16 @@ nav a:hover{
   text-transform: capitalize;
   margin-bottom: 25px;
   letter-spacing: 2px;
+}
+span{
+  color: green;
+  }
+.about-text h5{
+  color: blue;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
 }
 button{
   background: #f9004d;
