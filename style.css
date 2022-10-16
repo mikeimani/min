@@ -138,8 +138,12 @@ button:hover{
 body{
   margin: 0;
   background-color: #808080;
-}    
-
+}
+.careers{
+	margin:5px;
+  float:left;
+	width:500px;
+  height:1500px;
 .contact-box
 {
 width: 500px;
