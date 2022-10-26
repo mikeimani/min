@@ -63,9 +63,11 @@ nav a:hover{
   width: 420px;
 }
 .about-text{
-  width: 550px;
-  padding: 5px;
+  width: 600px;
+  padding: 70px; 
 }
+
+
 .main{
   width: 1130px;
   max-width: 95%;
