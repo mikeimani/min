@@ -45,7 +45,7 @@ nav a:hover{
 	overflow:auto;
 }
 
-{
+*{
   padding: 0px;
   margin: 0;
   font-family: "Josefin Sans", sans-serif;
