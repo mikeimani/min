@@ -59,21 +59,20 @@ nav a:hover{
 }
 
 .about{
-  height: 100%;
+  height: auto;
   width: 420px;
 }
 .about-text{
-  width: 600px;
+  width: 1000px;
   padding: 10px;
 }
 
-
 .main{
-  width: 1130px;
+  width: 110px;
   max-width: 95%;
-  margin: 0 auto;
+  margin: 100 auto;
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-around;
   }
 .about-text h1{
@@ -130,8 +129,8 @@ button:hover{
   
 }
 .gallery img{
-	width:100%;
-	height:auto;
+	width: 100%;
+	height: auto;
 }
 .desc{
 	padding:15px;
