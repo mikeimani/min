@@ -59,8 +59,11 @@ nav a:hover{
 	height: auto;
 }
 .desc{
-	padding:15px;
+	padding:5px;
 	text-align:center;
+}
+.minerals{
+  text-align: center;
 }
 body{
   margin: 0;
