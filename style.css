@@ -59,11 +59,18 @@ nav a:hover{
 	height: auto;
 }
 .desc{
-	padding:5px;
+	padding:1px;
 	text-align:center;
+  color: black;
+  font-size: 20px;
+  text-transform: capitalize;
 }
 .minerals{
   text-align: center;
+  color: blue;
+  font-size: 15px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
 }
 body{
   margin: 0;
