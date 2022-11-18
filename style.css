@@ -10,6 +10,7 @@ body{
 	margin:0;
 	background:#808080;
 }
+
 nav{
 	background:#594848;
 	width:100%;
@@ -23,11 +24,16 @@ ul{
 li{
 	float:left;
 }
+.logo img {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 10px;
+}
 nav a{
 	width:120px;
 	display:block;
 	text-decoration:none;
-	text-align:center;
+	text-align:right;
 	background:#594848;
 	font-size:17px;
 	color:white;
