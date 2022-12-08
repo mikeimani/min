@@ -11,10 +11,17 @@ body{
 	background:#808080;
 }
 
+
 nav{
 	background:#594848;
 	width:100%;
 	overflow:auto;	
+}
+
+.logo{
+  width: 50px;
+  height: auto;
+  margin: 10px 0 0 10px;
 }
 ul{
 	margin:0;
